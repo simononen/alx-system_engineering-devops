@@ -13,3 +13,4 @@
 - 10-back script file that changes the working directory to the previous one
 - 11-lists script file that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format
 - 12-file\_type script file that prints the type of the file named iamafile. The file is in /tmp
+- 13-symbolic\_link script file that Create a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory.
