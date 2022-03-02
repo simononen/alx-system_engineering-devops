@@ -1,2 +1,2 @@
 #!/bin/bash
-mv [Aa-Zz]* /tmp/u
+mv [^[A-Z][a-z0-9_-]{3,19}$]* /tmp/u
