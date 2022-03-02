@@ -6,3 +6,4 @@
 - 3-listfiles script file that display current directory contents in a long format
 - 4-listmorefiles script file that display current directory contents, including hidden files (starting with .). Use the long format.
 - 5-listfilesdigitonly script file that display current directory contents in long format with user group IDs in numerical formats and any hidden files.
+- 6-firstdirectory script file Create a script that creates a directory named my\_first\_directory in the /tmp/ directory
