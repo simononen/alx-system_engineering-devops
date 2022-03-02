@@ -5,3 +5,4 @@
 - 2-bring\_me\_home script file that changes the working directory to the user’s home directory
 - 3-listfiles script file that display current directory contents in a long format
 - 4-listmorefiles script file that display current directory contents, including hidden files (starting with .). Use the long format.
+- 5-listfilesdigitonly script file that display current directory contents in long format with user group IDs in numerical formats and any hidden files.
