@@ -9,3 +9,4 @@
 - 6-firstdirectory script file to Create a script that creates a directory named my\_first\_directory in the /tmp/ directory
 - 7-movethatfile script file to Move the file betty from /tmp/ to /tmp/my\_first\_directory
 - 8-firstdelete script file to delete the file betty from /tmp/my\_first\_directory/betty
+- 9-firstdirdeletion script file to delete the directory /tmp/my\_first\_directory
