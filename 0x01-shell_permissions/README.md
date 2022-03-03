@@ -16,4 +16,8 @@
 - Script file that changes the owner of the file ```hello``` to the user betty.
 
 ## Empty!
-- Script file that creates an empty file called ```hello```. 
+- Script file that creates an empty file called ```hello```.
+
+## Execute
+-  Script file that adds execute permission to the owner of the file ```hello```. 
+-  Considering that the file ```hello``` exists in the current directory. 
