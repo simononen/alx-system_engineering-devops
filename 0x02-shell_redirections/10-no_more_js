@@ -1,2 +1,2 @@
 #!/bin/bash
-rm $(find . -mindepth 1 -type f | grep '\.js')
+rm $(find . -type f | grep '\.js')
